@@ -1,4 +1,4 @@
 const Home = () => {
-  return <div>hello</div>;
+  return <div></div>;
 };
 export default Home;
