@@ -1,5 +1,5 @@
 const GetStarted = () => {
-  return <div></div>;
+  return <></>;
 };
 
 export default GetStarted;
